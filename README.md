@@ -46,7 +46,7 @@ I hope you enjoy these.
    Please checkout my YouTube channel. There are over 300 videos on vintage computing, vintage electronics
    and other stuff that caught my attention.
    
-   The ShadowTronBlog - https://www.youtube.com/channel/UCtUiwjYcRS_u6Egc8iTkHNg
+   The ShadowTronBlog - https://www.youtube.com/c/shadowtronblog
    
    Living in the shadow of the electron.
    
