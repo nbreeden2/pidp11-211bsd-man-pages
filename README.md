@@ -1,5 +1,21 @@
 # pidp11-211bsd-man-pages
+
+            /$$$$$$    /$$     /$$   /$$$$$$$   /$$$$$$  /$$$$$$$ 
+           /$$__  $$ /$$$$   /$$$$  | $$__  $$ /$$__  $$| $$__  $$
+          |__/  \ $$|_  $$  |_  $$  | $$  \ $$| $$  \__/| $$  \ $$
+            /$$$$$$/  | $$    | $$  | $$$$$$$ |  $$$$$$ | $$  | $$
+           /$$____/   | $$    | $$  | $$__  $$ \____  $$| $$  | $$
+          | $$        | $$    | $$  | $$  \ $$ /$$  \ $$| $$  | $$
+          | $$$$$$$$ /$$$$$$ /$$$$$$| $$$$$$$/|  $$$$$$/| $$$$$$$/
+          |________/|______/|______/|_______/  \______/ |_______/
+
+          ********************************************************
+          ************** The 211BSD man page project *************
+          ********************************************************
+
 I've been working to collect the formatted text from the man pages under 211BSD on my PiDP11.
+
+Version 3 of the files bring an index with page numbers along with some reformatting of some of the content which didn't format well when I captured it.
 
 Goals were too:
   * Keep the text as close to the original as possible.
